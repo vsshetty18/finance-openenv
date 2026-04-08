@@ -1,12 +1,22 @@
----
-title: Openenv Finance
-emoji: 💻
-colorFrom: purple
-colorTo: yellow
-sdk: docker
-pinned: false
-license: unknown
-short_description: it is the RL model created for a hckathon
----
+# AI Financial Document Analyzer (OpenEnv)
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+## 🚀 Live Demo
+https://vsvighnesh-openenv-finance.hf.space/
+
+## 📌 Description
+An OpenEnv-compatible environment simulating financial document analysis tasks like:
+- Categorization
+- Amount extraction
+- Fraud detection
+
+## 🧠 Features
+- Multi-step agent reasoning
+- Reward-based evaluation
+- Real-world invoice simulation
+- Interactive UI
+
+## 🛠 Tech Stack
+- FastAPI
+- Gradio
+- Docker
+- Hugging Face Spaces
